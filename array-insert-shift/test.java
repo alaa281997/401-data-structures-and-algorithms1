@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class test {
   public static int[] addX(int n, int arr[],int x)
     {
         
